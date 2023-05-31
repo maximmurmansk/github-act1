@@ -17,7 +17,6 @@ on:
       - master
 
 
-
 jobs:
   my_testing:
     runs-on: [ubuntu-latest]
